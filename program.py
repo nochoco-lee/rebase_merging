@@ -1,2 +1,4 @@
+from myfunc import test_function
+
 var = "Hello, World!"
-print(var)
+test_function(var)
