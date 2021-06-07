@@ -5,6 +5,8 @@ def variable_test():
     print(var)
     var = "changed"
 
+print("main procedure")
+
 var = "Hello, World!"
 variable_test()
 test_function(var)
